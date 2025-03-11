@@ -12,8 +12,8 @@
 <br>  
 <h6 align="center">
   <a href="https://www.facebook.com/sumon.ahammed.3720">Facebook</a> |
-  <a href="https://www.linkedin.com/in/sumon-ahmed-b346341aa/">Linkedin</a> |
-  <a href="">Portfolio</a>
+  <a href="https://www.linkedin.com/in/sumon-ahmed-b346341aa">Linkedin</a> |
+  <a href="https://sumon-dev.vercel.app">Portfolio</a>
   <br>
  
 </h6>
